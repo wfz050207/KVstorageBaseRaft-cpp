@@ -82,6 +82,3 @@ make -j$(nproc)
 └── lib/            # 库文件输出
 ```
 
-## 许可证
-
-MIT License
