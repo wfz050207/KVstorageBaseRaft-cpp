@@ -1,0 +1,11 @@
+
+!bin/test.conf
+.idea
+bin
+cmake-build-debug
+lib
+
+*.out
+*.a
+.claude/settings.local.json
+.txt
